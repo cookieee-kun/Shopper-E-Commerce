@@ -14,7 +14,8 @@ This project is an e-commerce website built with the MERN stack (MongoDB, Expres
 
 ### Prerequisites
 
-- List any software or dependencies required to run the project (e.g., Node.js, MongoDB).
+-  Node.js,
+-  MongoDB
 
 ### Installation
 
