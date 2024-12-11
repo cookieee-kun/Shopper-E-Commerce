@@ -8,7 +8,7 @@ This project is an e-commerce website built with the MERN stack (MongoDB, Expres
 - Express.js: Node.js framework used for building the backend APIs.
 - React.js: Frontend library used for building the user interface.
 - Node.js: JavaScript runtime used for server-side development.
-- Other libraries or frameworks used in your project.
+
 
 ## Getting Started
 
